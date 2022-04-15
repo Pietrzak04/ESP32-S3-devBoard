@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "S3dev")(type "KiCad")(uri "${KIPRJMOD}/S3dev.kicad_sym")(options "")(descr ""))
+)
